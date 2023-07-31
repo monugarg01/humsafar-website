@@ -1,0 +1,14 @@
+.navar{
+    display: flex;
+    justify-content: center;
+    color:black;
+}
+ul li a{
+    color:black;
+}
+ul li a:hover
+{
+    color:black;
+    list-style-type: none;
+    text-decoration: none;
+}
