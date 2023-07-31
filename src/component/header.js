@@ -23,7 +23,7 @@ function Header() {
             <a href="https://www.facebook.com/HUMSAFARBHAII?mibextid=ZbWKwL" target="_blank"><img src={fb}/></a>
             </li>
             <li>
-             <a href="https://www.google.com" target="_blank"><img src={whatsApp}/></a>
+             <a href="https://wa.me/919205323120" target="_blank"><img src={whatsApp}/></a>
             </li>
             <li>
              <a href="https://t.me/+m0i4xltrEzQzZWI9" target="_blank"><img src={tele}/></a>

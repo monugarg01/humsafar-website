@@ -78,8 +78,8 @@ const getPostsData = () => {
 <div class="quads-ad-label quads-ad-label-new">Advertisements</div>
  {/* <!-- WP QUADS - Quick AdSense Reloaded v.2.0.73 Content ImageBanner AD -->  */}
 
-            <a imagebanner="" target="_blank" href="https://vision11.in/download/SF100/" rel="nofollow">
-              <img style = {{width:"800",height:"230"}} src="https://sports-fantasy.in/wp-content/uploads/2023/06/vision11-ads.jpg" alt="Ad 1"/>
+            <a imagebanner="" target="_blank" href="https://wa.me/919205323120" rel="nofollow">
+              <img style = {{width:"800",height:"230"}} src="https://humsafar-site-data.s3.ap-south-1.amazonaws.com/photo_2023-08-01_01-22-42.jpg" alt="Ad 1"/>
             </a>
  {/* <!-- end WP QUADS -->  */}
 
