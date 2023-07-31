@@ -45,20 +45,11 @@ function Privacy() {
           you by email or by posting a notice on our website.
           </p>
           <h4><strong>Contact Us</strong></h4>
-          <p style={{fontSize:"22px"}}>
-          If you have any questions about our privacy policy,
-           please contact us at contactsportsfantasy@gmail.com
-          </p>
-          <h4><strong>Our WhatsApp Number:</strong>+91 9771961070</h4>
+         
           <div className='telegramlink'>
     <figure>
         <a rel="noopener"  target = "_blank" className ="telegram_hyperlink" href={"https://t.me/+m0i4xltrEzQzZWI9"}>
         <img src = {telegram} className='image'/></a>
-        <figcaption>
-            <strong>
-            <a rel="noopener"  target = "_blank" className ="telegram_hyperlink" href={"https://t.me/+m0i4xltrEzQzZWI9"}>JOIN TELEGRAM LINK</a>
-            </strong>
-        </figcaption>
     </figure>
 </div>
 <div>

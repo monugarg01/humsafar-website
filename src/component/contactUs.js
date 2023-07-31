@@ -10,33 +10,18 @@ function ContactUs() {
     <figure>
         <a rel="noopener"  target = "_blank" className ="instagram_hyperlink" href="https://instagram.com/humsafarbhai_since2014?igshid=MzNlNGNkZWQ4Mg==">
         <img src = {instagram} className='image'/></a>
-        <figcaption>
-            <strong>
-            <a rel="noopener"  target = "_blank" className ="instagram_hyperlink" href="https://instagram.com/humsafarbhai_since2014?igshid=MzNlNGNkZWQ4Mg==">JOIN INSTAGRAM LINK</a>
-            </strong>
-        </figcaption>
     </figure>
 </div>
 <div className='telegramlink'>
     <figure>
         <a rel="noopener"  target = "_blank" className ="facebook_link" href="https://www.facebook.com/HUMSAFARBHAII?mibextid=ZbWKwL">
         <img src = {facebook} className='image'/></a>
-        <figcaption>
-            <strong>
-            <a rel="noopener"  target = "_blank" className ="facebook_link" href="https://www.facebook.com/HUMSAFARBHAII?mibextid=ZbWKwL">JOIN FACEBOOK LINK</a>
-            </strong>
-        </figcaption>
     </figure>
 </div>
 <div className='telegramlink'>
     <figure>
         <a rel="noopener"  target = "_blank" className ="telegram_hyperlink" href="https://t.me/+m0i4xltrEzQzZWI9">
         <img src ={telegram} className='image'/></a>
-        <figcaption>
-            <strong>
-            <a rel="noopener"  target = "_blank" className ="telegram_hyperlink" href="https://t.me/+m0i4xltrEzQzZWI9">JOIN TELEGRAM LINK</a>
-            </strong>
-        </figcaption>
     </figure>
 </div>
 
