@@ -29,7 +29,7 @@ console.log("13",prediction_id)
 if(prediction_description!==''&& prediction_image_link!== '' && match_name!==''&& league !=='',date!==''&&time!==''&&Stadium!==''
  && match_report!==''&& telegram_link!==''&&Instagram_link!=='' && facebook_link!=='' && Batsman1!=''&& Batsman2!=='')
         {
-         axios.post("http://localhost:3000/test1",{allData})
+         axios.post("https://api.humsafarprediction.in/uploadmatchdata/",{allData})
         .then(data => data.respponse)
         .catch(error => console.log(error)) 
         document.getElementById("PredictionDescription").value = ''

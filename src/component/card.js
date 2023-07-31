@@ -20,7 +20,7 @@ useEffect(()=>{
 },[])
 const getPostsData = () => {
     console.log("test")
-    axios.get("http://localhost:3000/test")
+    axios.get("https://api.humsafarprediction.in/getmactchs/")
     .then(data => setData(data.data))
     .catch(error => console.log(error));
     };  
