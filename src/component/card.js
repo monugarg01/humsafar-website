@@ -85,19 +85,6 @@ const getPostsData = () => {
     </Card>
      ))}
     </div>
-    <div class="entry-content" itemprop="text">	
-{/* <!-- WP QUADS Content Ad Plugin v. 2.0.73 --> */}
-<div class="quads-location quads-ad13268 quads-mobile" id="quads-ad13268" style={{float: "none", textAlign: "center", padding: "10px" ,visibility: "visible"}}>
-<div class="quads-ad-label quads-ad-label-new">Advertisements</div>
- {/* <!-- WP QUADS - Quick AdSense Reloaded v.2.0.73 Content ImageBanner AD -->  */}
-
-            <a imagebanner="" target="_blank" href="https://wa.me/919205323120" rel="nofollow">
-              <img style = {{width:"800",height:"230"}} src="https://humsafar-site-data.s3.ap-south-1.amazonaws.com/photo_2023-08-01_01-22-42.jpg" alt="Ad 1"/>
-            </a>
- {/* <!-- end WP QUADS -->  */}
-
-</div>
-</div>
 
     {next < data?.length && (
         <div className='button'>
